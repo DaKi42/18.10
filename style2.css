@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+span{
+    color: red;
+}
+p{
+    font-weight: bold;
+    font-size: large;
+}
+ol li{
+    color: green;
+}
+ul li{
+    color: black;
+}

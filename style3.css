@@ -1,0 +1,22 @@
+h1{
+    color: green;
+    text-align: center;
+}
+dt{
+    color: red;
+    font-weight: bold;
+}
+hr{
+    border-top: 1px solid red;
+}
+
+ul{
+    list-style: circle;
+}
+span{
+    color: green;
+    font-weight: bold;
+}
+h3{
+    color: red;
+}

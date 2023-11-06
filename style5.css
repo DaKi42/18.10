@@ -1,0 +1,9 @@
+.first{
+    list-style: disc;
+}
+.second{
+    list-style-image: url(ar.gif);
+}
+.third{
+    list-style: decimal;
+}
